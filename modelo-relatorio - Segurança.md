@@ -21,17 +21,20 @@ Medida 3:
 
 
 ## Conclusão
-A implementação de ferramentas na empresa *Abstergo Industries tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa *Abstergo Industries tem como esperado: A implementação de MFA para usuários como forma de aumentar a segurança quanto ao acesso indevido ao dados da empresa. Configurar o Identity and Access Management (IAM) atribuindo roles aos usuários de forma segura e criptografada, aumetando a confiabilidade da empresa com seus clientes. implementar e configurar o Web Applicantion Firewall (WAF) através de regras e politicas de segurança, buscando filtrar o tráfego de boots e bloquear ataques comuns, SQL injection ou cross-site scripting (XSS).*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
-Multi-factor authentication (MFA):
+Para mais informações acesse:
 
+Multi-factor authentication (MFA):
 https://aws.amazon.com/pt/iam/features/mfa/?audit=2019q1
 
+AWS identity and access Management (IAM):
 https://aws.amazon.com/pt/iam/
 
-https://aws.amazon.com/pt/waf/]
+Web Application Firewall:
+https://aws.amazon.com/pt/waf/
 
 Assinatura do Responsável pelo Projeto:
 
